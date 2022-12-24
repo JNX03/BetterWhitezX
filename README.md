@@ -12,9 +12,11 @@
 ### BetterDiscord
 
 - Go to [latest release page](Placehole)
+
 <p align="center">
 <img src="placehole"/> </a> 
 </p>
+
 - Click file name : BetterWhitezX.theme to download
 - add file to better discord (Theme file)
 - Go to setting -> Appearance -> Go to Theme and click Light to enable it
