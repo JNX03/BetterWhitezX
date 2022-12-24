@@ -2,7 +2,7 @@
 
 <p align="center">Discord Theme on the light mode with multi addons</p>
 <p align="center">
-<img src="Placehold"/> </a> 
+<img src="https://raw.githubusercontent.com/JNDEV03/BetterWhitezX/main/assets/BetterWhite.png"/> </a> 
 </p>
 
 ---
