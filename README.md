@@ -1,8 +1,8 @@
-<h1 align="center">BetterDarkzX</h1>
+<h1 align="center">BetterWhitezX</h1>
 
-<p align="center">Better discord theme. that let you discord like mac and better dark mode.</p>
+<p align="center">Discord Theme on the light mode with multi addons</p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/JNDEV03/BetterDarkzX/main/assets/betterDarkzXSD.png"/> </a> 
+<img src="Placehold"/> </a> 
 </p>
 
 ---
@@ -11,12 +11,12 @@
 
 ### BetterDiscord
 
-- Go to [latest release page](https://github.com/JNDEV03/BetterDarkzX/releases/tag/BetterDarkzX5-1)
-- Click file name : BetterDarkzX.theme to download
+- Go to [latest release page](Placehole)
+- Click file name : BetterWhitezX.theme to download
 - add file to better discord (Theme file)
-- done! you got an betterDarkzX theme
+- done! you got an betterWhitezX theme
 <p align="center">
-<img src="https://raw.githubusercontent.com/JNDEV03/BetterDarkzX/main/assets/betterDarkzX.png"/> </a> 
+<img src="placehole"/> </a> 
 </p>
 
 ## Enable addons
@@ -26,7 +26,7 @@
 - Remove code " /* " In the front of @import ( Remove the highlight in the image below )
 - Remove code " */ " At the end of the line
 - Reload the Theme
-- Done! You Enable the addons!  -  You can suggest the addons in [Pull request](https://github.com/JNDEV03/BetterDarkzX/pulls)
+- Done! You Enable the addons!  -  You can suggest the addons in [Pull request](Pull placehole)
 <p align="center">
 <img src="https://raw.githubusercontent.com/JNDEV03/BetterDarkzX/main/assets/remove%20this%20yayay.png"/> </a> 
 </p>
