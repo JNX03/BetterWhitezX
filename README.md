@@ -14,7 +14,7 @@
 - Go to [latest release page](https://github.com/JNDEV03/BetterWhitezX/releases/tag/BetterWhitezX1)
 
 <p align="center">
-<img src="placehole"/> </a> 
+<img src="https://raw.githubusercontent.com/JNDEV03/BetterWhitezX/main/assets/betterwhitezX.png"/> </a> 
 </p>
 
 - Click file name : BetterWhitezX.theme to download
