@@ -28,7 +28,7 @@
 - Reload the Theme
 - Done! You Enable the addons!  -  You can suggest the addons in [Pull request](Pull placehole)
 <p align="center">
-<img src="https://raw.githubusercontent.com/JNDEV03/BetterDarkzX/main/assets/remove%20this%20yayay.png"/> </a> 
+<img src="https://raw.githubusercontent.com/JNDEV03/BetterWhitezX/main/assets/remove%20this%20yayay.png"/> </a> 
 </p>
 
 ## Credits
