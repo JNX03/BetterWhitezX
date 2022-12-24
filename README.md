@@ -12,11 +12,15 @@
 ### BetterDiscord
 
 - Go to [latest release page](Placehole)
-- Click file name : BetterWhitezX.theme to download
-- add file to better discord (Theme file)
-- done! you got an betterWhitezX theme
 <p align="center">
 <img src="placehole"/> </a> 
+</p>
+- Click file name : BetterWhitezX.theme to download
+- add file to better discord (Theme file)
+- Go to setting -> Appearance -> Go to Theme and click Light to enable it
+- done! you got an betterWhitezX theme
+<p align="center">
+<img src="https://raw.githubusercontent.com/JNDEV03/BetterWhitezX/main/assets/click%20this%20white.png"/> </a> 
 </p>
 
 ## Enable addons
