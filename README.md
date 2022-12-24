@@ -11,7 +11,7 @@
 
 ### BetterDiscord
 
-- Go to [latest release page](Placehole)
+- Go to [latest release page](https://github.com/JNDEV03/BetterWhitezX/releases/tag/BetterWhitezX1)
 
 <p align="center">
 <img src="placehole"/> </a> 
