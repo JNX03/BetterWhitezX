@@ -1,8 +1,8 @@
 {
     "version": "1.3.x",
-    "name": "BetterDarkzX",
+    "name": "BetterWhitezX",
     "author": "Jn03",
     "license": "MIT",
-    "theme": "BetterDarkzX.theme.css",
-    "description": "Better discord theme. that let you discord like mac and better dark mode."
+    "theme": "BetterWhitezX.theme.css",
+    "description": "Discord Theme on the light mode with multi addons "
 }
