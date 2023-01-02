@@ -1,3 +1,10 @@
+<p align="center">This project has collap with BetterDarkzX If you want to chage color just go to Appearance and change it Thank</p>
+<p align="center">This project has collap with BetterDarkzX If you want to chage color just go to Appearance and change it Thank</p>
+<p align="center">This project has collap with BetterDarkzX If you want to chage color just go to Appearance and change it Thank</p>
+<p align="center">This project has collap with BetterDarkzX If you want to chage color just go to Appearance and change it Thank</p>
+
+
+
 <h1 align="center">BetterWhitezX</h1>
 
 <p align="center">Discord Theme on the light mode with multi addons</p>
