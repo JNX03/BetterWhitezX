@@ -1,7 +1,4 @@
-<p align="center">This project has collap with BetterDarkzX If you want to chage color just go to Appearance and change it Thank</p>
-<p align="center">This project has collap with BetterDarkzX If you want to chage color just go to Appearance and change it Thank</p>
-<p align="center">This project has collap with BetterDarkzX If you want to chage color just go to Appearance and change it Thank</p>
-<p align="center">This project has collap with BetterDarkzX If you want to chage color just go to Appearance and change it Thank</p>
+<p align="center">This project will be archive and collept with the BetterDarkzX</p>
 
 
 
